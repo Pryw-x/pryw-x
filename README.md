@@ -12,7 +12,7 @@
 <img align="right" height="160" src="https://windowscustomization.com/wp-content/uploads/2019/10/Zelda-Breath-of-Wild.gif"  />
 
 ###
-
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
