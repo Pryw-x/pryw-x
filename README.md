@@ -9,9 +9,13 @@
 
 ###
 
-<img align="right" height="160" src="https://windowscustomization.com/wp-content/uploads/2019/10/Zelda-Breath-of-Wild.gif"  />
+<div align="center">
+  <img height="160" src="https://windowscustomization.com/wp-content/uploads/2019/10/Zelda-Breath-of-Wild.gif"  />
+</div>
 
 ###
+
+<br clear="both">
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -32,7 +36,7 @@
 </div>
 
 ###
-
+<h2 align="center" >Redes Sociais</h2>
 <div align="left">
   <a href="https://www.instagram.com/ph_sczn/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -46,12 +50,8 @@
 </div>
 
 ###
-
-<br clear="both">
-
-###
-
-<div align="center">
+---
+<div align="left">
   <a href="https://open.spotify.com/user/314blehks4ms5hq3boaycbwr7zra">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=314blehks4ms5hq3boaycbwr7zra&count=5&unique=true" alt="Spotify recently played"  />
   </a>
