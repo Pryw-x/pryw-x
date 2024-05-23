@@ -1,4 +1,5 @@
 <h3 align="left">Hi 👋! My name is Pedro and I'm a web developer  from Brazil</h3>
+<h3 align="left">At the moment I'm studying to become a data analyst.</h3>
 
 ###
 
